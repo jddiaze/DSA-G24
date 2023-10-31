@@ -1,0 +1,100 @@
+<mxfile host="app.diagrams.net" modified="2023-10-30T04:19:27.613Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="GBU6PQzVh0ox_FJNLyRg" version="22.0.8" type="device">
+  <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
+    <mxGraphModel dx="1744" dy="878" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="677b7b8949515195-3" value="Search" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;rounded=0;labelBackgroundColor=none;comic=1;" parent="1" vertex="1">
+          <mxGeometry x="870" y="90" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-9" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="140" width="1060" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-27" value="Section 1" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="40" y="250" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-28" value="Section 2" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="40" y="286" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-29" value="Section 3" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="40" y="321" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-30" value="Section 4" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="40" y="357" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-31" value="Section 7" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="40" y="464" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-32" value="Section 8" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="40" y="500" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-33" value="Section 9" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="40" y="536" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-34" value="Section 10" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="40" y="571" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-35" value="Section 11" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="40" y="607" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-36" value="Section 12" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="40" y="643" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-37" value="Section 13" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="40" y="679" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-38" value="Section 14" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="40" y="714" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-39" value="Section 5" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="40" y="393" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-40" value="Section 6" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="40" y="429" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-41" value="Section 15" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="40" y="750" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6cd4mzjtZHm6dhKnhEP-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.pieChart;strokeColor=#008cff;parts=10,20,35;partColors=#e0e0e0,#d0d0d0,#c0c0c0,#b0b0b0,#a0a0a0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="286" width="250" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6cd4mzjtZHm6dhKnhEP-2" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.lineChart;strokeColor=none;strokeColor2=#666666;strokeColor3=#008cff;strokeColor4=#dddddd;" vertex="1" parent="1">
+          <mxGeometry x="660" y="550" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6cd4mzjtZHm6dhKnhEP-3" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.bubbleChart;strokeColor=none;strokeColor2=none;strokeColor3=#666666;fillColor2=#008cff;fillColor3=#dddddd;" vertex="1" parent="1">
+          <mxGeometry x="180" y="580" width="400" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6cd4mzjtZHm6dhKnhEP-5" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.map;" vertex="1" parent="1">
+          <mxGeometry x="660" y="231" width="380" height="269" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6cd4mzjtZHm6dhKnhEP-7" value="FILTRO CIUDAD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#707070;" vertex="1" parent="1">
+          <mxGeometry x="540" y="150" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6cd4mzjtZHm6dhKnhEP-9" value="FILTRO DELITO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#707070;" vertex="1" parent="1">
+          <mxGeometry x="820" y="150" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6cd4mzjtZHm6dhKnhEP-10" value="FILTRO AÑO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#707070;" vertex="1" parent="1">
+          <mxGeometry x="240" y="150" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6cd4mzjtZHm6dhKnhEP-17" value="CIUDAD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="30" y="205" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6cd4mzjtZHm6dhKnhEP-22" value="&lt;h1&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font&gt;COMPORTAMIENTO HISTORICO&lt;/font&gt;&lt;/p&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="520" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6cd4mzjtZHm6dhKnhEP-23" value="&lt;h1&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font&gt;UBICACIÓN&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="236" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6cd4mzjtZHm6dhKnhEP-24" value="&lt;h1&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font&gt;DISTRIBUCIÓN POR TIPO&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="230" width="330" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6cd4mzjtZHm6dhKnhEP-25" value="&lt;h1&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font&gt;ÁREAS CRÍTICAS&lt;/font&gt;&lt;/p&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="541" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6cd4mzjtZHm6dhKnhEP-26" value="&lt;h1&gt;&lt;p style=&quot;text-align: center;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;COMPORTAMIENTO DE LA CRIMINALIDAD EN COLOMBIA&lt;/font&gt;&lt;/p&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="20" width="670" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
