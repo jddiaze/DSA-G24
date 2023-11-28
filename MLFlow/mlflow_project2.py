@@ -97,10 +97,6 @@ print("Mejor precisión:", grid_result.best_score_)
 
 
 
-
-
-
-
 #Importe MLFlow para registrar los experimentos, el regresor de bosques aleatorios y la métrica de error cuadrático medio
 import mlflow
 import mlflow.sklearn
